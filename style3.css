@@ -1,0 +1,25 @@
+div{
+    width:200px;
+    height:200px;
+    display: inline-block;
+}
+.topcontainer{
+    align-items: center;
+    border: black solid 10px;
+    background-color: crimson;
+    position: absolute;
+    top: 50px;
+    left:50px;
+}
+.middlecontainer{
+    border: palevioletred solid 10px;
+    background-color: aqua;
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
+.bottomcontainer{
+    align-items: right;
+    border: wheat solid 10px;
+    background-color: gold;
+}

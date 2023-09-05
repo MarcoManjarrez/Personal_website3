@@ -1,0 +1,35 @@
+.dest{
+    background-color: chocolate;
+    border-color: brown;
+}
+.hh{
+    font-family:"Rubik Iso";
+}
+.deste{
+    align-items: center;
+    visibility:hidden;
+}
+.parent:hover .deste{
+    align-items: center;
+    visibility:visible;
+}
+
+.in{
+    display: inline;
+}
+.big_cat {
+    align-content: end;
+}
+.cat{
+    position: sticky;
+    text-align: right;
+    width: 20%;
+}
+
+.blank_space{
+    background-color: white;
+    border-color:black;
+    border: 6;
+    position:absolute;
+    left:0px;
+}
